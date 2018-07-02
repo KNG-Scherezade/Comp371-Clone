@@ -1,0 +1,28 @@
+CMakeCache.txt
+CMakeFiles
+Makefile
+cmake_install.cmake
+install_manifest.txt
+*.swp
+
+# Temp build/install dirs
+_builds/*
+_install/*
+
+# IDE project files
+.idea/*
+# Leave in the jetbrains code style settings!
+!.idea/codeStyleSettings.xml
+.vs/
+cmake-build-debug/
+CMakeScripts
+_3rdParty
+ProceduralWorld*
+# old project name
+HeightMapper*
+
+# Executables
+bin/
+
+# macOS
+.DS_Store
